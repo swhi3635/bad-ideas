@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "public": "./blog/output",
+    "ignore": [
+      "firebase.json",
+      "**/.*"
+    ]
+  }
+}
