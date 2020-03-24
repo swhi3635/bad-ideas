@@ -1,5 +1,5 @@
 blog/output/
-blog/__pycache
+blog/__pycache__/
 .firebase/
 .firebaserc
 
