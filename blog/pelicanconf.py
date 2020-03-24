@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sam Whitney'
-SITENAME = 'Bad Ideas'
+SITENAME = 'bad ideas'
 SITEURL = ''
 
 PATH = 'content'
@@ -33,3 +33,4 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = 'pelican-sober'
+PELICAN_SOBER_ABOUT = 'A collection of personal projects that usually involve poor financial decisions and other mistakes.'
