@@ -45,6 +45,6 @@ jobs:
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@v1.3.0
         with:
-          args: deploy
+          args: deploy --project Blog
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
