@@ -1,6 +1,12 @@
 name: Build Pelican site
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - '*'
 
 jobs:
   build:
@@ -27,3 +33,18 @@ jobs:
         with:
           name: output
           path: blog/output
+  deploy:
+    needs: build
+    if: github.ref == 'master'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/download-artifact@v1
+        with:
+          name: output
+      - name: Deploy to Firebase
+        uses: w9jds/firebase-action@v1.3.0
+        with:
+          args: deploy
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
