@@ -24,7 +24,7 @@ LINKS = (('Trello: MK2 VR6 Tasks', 'https://trello.com/b/lalq28zE/mk2-jetta-vr6-
          ('Trello: MK2 VR6 Parts & Tools', 'https://trello.com/b/aZhuJZH4/mk2-jetta-vr6-swap-parts-tools'),)
 
 # Social widget
-SOCIAL = (('Instagram', 'https://instagram.com/wamshitney'),
+SOCIAL = (('Instagram', 'https://instagram.com/wamshitney/'),
           ('GitHub', 'https://github.com/swhi3635'),)
 
 DEFAULT_PAGINATION = 10

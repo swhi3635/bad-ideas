@@ -16,16 +16,15 @@ A friend of mine bought this car a while ago, as they needed some parts for thei
 ## Parts list
 There are a number of parts that I plan to take from this car:
 
-- Pedal cluster
-- Front cross members
-  - Radiator support
-  - Front engine mount/support
-- Engine - 12v VR6 (AAA, OBD1)
-- Transmission - 02A
-- Accelerator cable
-- Shifter box 
-- Shifter cables
-- Bolts - you can never have too many spare bolts lying around
+* Pedal cluster
+* Front cross member (radiator support)
+* Front cross member (motor mount)
+* Engine - 12v VR6 (AAA, OBD1)
+* Transmission - 02A
+* Accelerator cable
+* Shifter box
+* Shifter cables
+* Bolts - you can never have too many spare bolts lying around
 
 ## Pulling the pedal cluster
 The first item to come off of the Passat is the pedal cluster.  The MK2 Jetta's clutch is cable-actuated, while the Passat's is hydraulically actuated.  Since I'm swapping a different transmission into the MK2, the pedal cluster needs to match the new transmission's clutch setup.  The cluster from this Passat should bolt up to the MK2 Jetta's firewall with little-to-no modification needed.
@@ -34,12 +33,12 @@ The first item to come off of the Passat is the pedal cluster.  The MK2 Jetta's 
 
 I was pretty eager to start ripping the Passat apart, so I didn't take any pictures to document the process of removing the pedal cluster.  I'll try to do better next time.  Anyway, the process went something like this:
 
-- Remove the knee bar that makes up the lower section of the dashboard
-- Move the A/C ducting that runs above the steering column.  The ducting might have been below the column; I don't quite remember.
-- Disconnect the throttle cable, brake pushrod/return spring, pedal position sensors (vacuum and electrical connections), clutch pedal pushrod
-- Disconnect the steering column U-joint that joins it to the steering rack.  This allows the column to pivot freely, with the pivot axis being just below the instrument cluster.
-- Remove the 7 or 8 nuts that attach the pedal cluster to the firewall.  I had to peel back the carpet in the foot well to access the lower mounting points.
-- Pull the pedal cluster out.  It was a bit challenging to wrangle it out with the steering column in the way. Disconnecting the U-joint from the steering column certainly made the process easier.
+* Remove the knee bar that makes up the lower section of the dashboard
+* Move the A/C ducting that runs above the steering column.  The ducting might have been below the column; I don't quite remember.
+* Disconnect the throttle cable, brake pushrod/return spring, pedal position sensors (vacuum and electrical connections), clutch pedal pushrod
+* Disconnect the steering column U-joint that joins it to the steering rack.  This allows the column to pivot freely, with the pivot axis being just below the instrument cluster.
+* Remove the 7 or 8 nuts that attach the pedal cluster to the firewall.  I had to peel back the carpet in the foot well to access the lower mounting points.
+* Pull the pedal cluster out.  It was a bit challenging to wrangle it out with the steering column in the way. Disconnecting the U-joint from the steering column certainly made the process easier.
 
 I have the luxury of junking this car when I'm done with it, so I don't have to worry about reinstalling any parts on the car, nor do I need to be very careful when removing things to access the parts I need.
 
