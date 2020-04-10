@@ -4,7 +4,7 @@ Category: MK2 VR6 Swap
 Tags: vw, jetta, mk2, vr6, cars, diy
 Slug: mk2-vr6-starting-out
 Summary: Starting out my 1990 Volkswagen Jetta (MK2) VR6 swap project
-
+gallery: {photo}mk2-jetta-exterior
 This is my first post of a hopefully not-too-long running project series.
 
 The end goal of this project is to replace the original 1.8 liter 4-cylinder motor in my 1990 Volkswagen Jetta (Mk2) with a 2.8 liter VR6 engine.  By today's standards, neither motor is particularly powerful.  However, horsepower is not what I'm after...
@@ -21,9 +21,7 @@ The second-generation (Mk2) Golf/Jetta was never offered with a VR6, however man
 ## Procuring the project car
 I spent a couple of months scouring Craigslist, Facebook Marketplace, OfferUp, etc. for a suitable car that was within my budget of $2500 or less.  This proved to be quite difficult, since I was looking for ~30 year-old cars.  After checking out a couple of absolute turds, I began seeking alternatives.  Not too long after that, a couple of friends notified me of a 1990 Volkswagen Jetta GL that was going up for sale.  The engine and body were in surprisingly good shape.  A friend drove me to check out the car.  After some inspection and a quick test drive, I bought car for $1600.  I drove it home (~40 minutes) without any major issues.
 
-![Front view of the white 1990 Jetta]({static}/images/jetta001.jpg)
-
-![Rear view of the white 1990 Jetta]({static}/images/jetta002.jpg)
+![Front view of the white 1990 Jetta]({lightbox}mk2-jetta-exterior/jetta001.jpg) ![Rear view of the white 1990 Jetta]({lightbox}mk2-jetta-exterior/jetta002.jpg)
 
 While the car is in good overall condition for its age, there are a few issues:
 

@@ -1,4 +1,6 @@
 blog/output/
+!blog/output/photos/
+original-photos/
 blog/__pycache__/
 .firebase/
 .firebaserc
