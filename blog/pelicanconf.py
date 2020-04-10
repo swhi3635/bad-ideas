@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = 10
 THEME = 'pelican-sober'
 PELICAN_SOBER_ABOUT = 'A collection of personal projects that usually involve poor financial decisions and other mistakes.'
 
-PLUGIN_PATHS = ['../../pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['photos']
 
 PHOTO_LIBRARY = "../original-photos"
