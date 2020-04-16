@@ -4,6 +4,7 @@ Category: MK2 VR6 Swap
 Tags: vw, jetta, mk2, vr6, cars, diy, b3, passat
 Slug: mk2-vr6-passat-pulling-engine
 Summary: Pulling the engine and transmission out of the Passat parts car
+image: {photo}b3-passat-vr6-engine-removal/engine_removal004.jpg
 
 While it's becoming more likely, I still haven't decided whether or not I'm going to use the engine and transmission from the Passat to put into the MK2 Jetta.  The Passat has a fairly unknown history, but the engine supposedly runs despite some issues with the starter.  What I'm really after is the pedal cluster, the front cross members (for the motor mount and radiator), and a few other bits and pieces.  I have to pull the engine to remove the front cross members anyway, so I'll have the engine handy should I decide to use it.
 

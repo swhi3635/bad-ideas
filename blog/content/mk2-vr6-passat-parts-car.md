@@ -4,6 +4,7 @@ Category: MK2 VR6 Swap
 Tags: vw, jetta, mk2, vr6, cars, diy, b3, passat
 Slug: mk2-vr6-passat-parts-car
 Summary: Introducing the parts car - a B3 Passat VR6
+image: {photo}b3-passat-vr6-exterior/passat001.jpg
 
 The parts Passat has arrived!
 
