@@ -10,7 +10,7 @@ The parts Passat has arrived!
 
 If you've seen the [Trello board](https://trello.com/b/aZhuJZH4/mk2-jetta-vr6-swap-parts-tools) where I'm tracking parts & tools, you may have noticed that a few items have a green label that says "B3 Passat Parts Car".  Well, I finally received the car from which I'll be pulling those parts - A 1993 VW Passat GLX.
 
-![Side view of the Passat]({lightbox}/b3-passat-vr6-exterior/passat001.jpg)
+![Side view of the Passat]({lightbox}b3-passat-vr6-exterior/passat001.jpg)
 
 A friend of mine bought this car a while ago, as they needed some parts for their [Corrado](https://www.instagram.com/p/BzrPRYkH4S0/).  They were generous enough to let me pull most of the suspension out of it to use on [my car](https://www.instagram.com/p/BzM0R3rHtXR/) for last year's [Gambler 500](https://en.wikipedia.org/wiki/Gambler_500).  They no longer needed the Passat, so I bought it for $400.  The Gambler car (along with it's "upgraded" suspension) has since been given away to another friend, so the Passat had to be transported with some makeshift struts to allow the car to roll on/off the trailer.  As you can see in the above picture, it's not exactly an ideal suspension setup.  Alas, the car is in my driveway and ready to be pulled apart.
 
@@ -30,7 +30,7 @@ There are a number of parts that I plan to take from this car:
 ## Pulling the pedal cluster
 The first item to come off of the Passat is the pedal cluster.  The MK2 Jetta's clutch is cable-actuated, while the Passat's is hydraulically actuated.  Since I'm swapping a different transmission into the MK2, the pedal cluster needs to match the new transmission's clutch setup.  The cluster from this Passat should bolt up to the MK2 Jetta's firewall with little-to-no modification needed.
 
-![View of the Passat's pedal cluster]({lightbox}/b3-passat-vr6-pedal-cluster/pedal-cluster001.jpg)
+![View of the Passat's pedal cluster]({lightbox}b3-passat-vr6-pedal-cluster/pedal-cluster001.jpg)
 
 I was pretty eager to start ripping the Passat apart, so I didn't take any pictures to document the process of removing the pedal cluster.  I'll try to do better next time.  Anyway, the process went something like this:
 
